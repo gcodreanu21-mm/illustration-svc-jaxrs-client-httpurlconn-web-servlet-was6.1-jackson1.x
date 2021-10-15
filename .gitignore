@@ -1,0 +1,3 @@
+# Project exclude paths
+/rest-client/target/
+/web-servlet/target/
